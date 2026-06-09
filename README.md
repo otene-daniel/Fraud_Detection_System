@@ -178,4 +178,4 @@ streamlit run fraud_detection_app.py
 
 **Author:** Daniel Otene
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/otene-daniel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/otene-daniel-441b45209)
+<a href="https://www.linkedin.com/in/otene-daniel-441b45209">LinkedIn</a>
